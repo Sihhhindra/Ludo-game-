@@ -1,2 +1,2 @@
 # Ludo-game-
-ludo game of four players 
+ludo game for four players 
